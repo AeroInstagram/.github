@@ -1,5 +1,7 @@
 <div align="center">
 
+[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/Assets/aero_cover.png)](https://github.com/AeroInstagram)
+
 **Conecte su comunidad con AeroInsta**
 
 <sub>AeroInsta, protegiendo su privacidad, mejorando su experiencia de aplicación; es una obra maestra meticulosamente diseñada para que sea fácil, divertido y útil.t</sub>
@@ -8,11 +10,11 @@
 
 <br>
 
-[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/assets/images-hero_img.png)](https://github.com/AeroInstagram)
+[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/Assets/images-hero_img.png)](https://github.com/AeroInstagram)
 
 <br>
 
-[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/assets/images-testimonial2.png)](https://github.com/AeroInstagram)
+[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/Assets/images-testimonial2.png)](https://github.com/AeroInstagram)
 
 **1. Elimina los límites con las opciones para desarrolladores.**
 
@@ -28,7 +30,7 @@ A través de AeroInsta, no verá ningún anuncio aburrido de Insta. Simplemente 
 
 <a href="https://github.com/AeroInstagram/.github/tree/main/Español/features"> `Ver nuestras características` </a>
 
-[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/assets/images-video.png)](https://github.com/AeroInstagram)
+[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/Assets/images-video.png)](https://github.com/AeroInstagram)
 
 <br><br>
 
@@ -36,22 +38,22 @@ A través de AeroInsta, no verá ningún anuncio aburrido de Insta. Simplemente 
 
 </div>
 
-[<img src="https://github.com/AeroInstagram/.github/blob/main/assets/images-consultancy.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Eliminar que me gustan**
+[<img src="https://github.com/AeroInstagram/.github/blob/main/Assets/images-consultancy.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Eliminar que me gustan**
 > Posibilidad de ocultar las publicaciones que te gustan antes.
 
-[<img src="https://github.com/AeroInstagram/.github/blob/main/assets/images-solutions.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Descarga todo**
+[<img src="https://github.com/AeroInstagram/.github/blob/main/Assets/images-solutions.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Descarga todo**
 > La capacidad de descargar todas las historias, videos de reels, videos IGTV, en resumen; todas las publicaciones con un clic.
 
-[<img src="https://github.com/AeroInstagram/.github/blob/main/assets/images-simple.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Intimidad**
+[<img src="https://github.com/AeroInstagram/.github/blob/main/Assets/images-simple.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Intimidad**
 > La capacidad de ocultar ver historias, escribiendo... y leer mensajes.
 
-[<img src="https://github.com/AeroInstagram/.github/blob/main/assets/images-deadline.png" width="15px" height="auto">](https://github.com/AeroInstagram) **¿Te sigue?**
+[<img src="https://github.com/AeroInstagram/.github/blob/main/Assets/images-deadline.png" width="15px" height="auto">](https://github.com/AeroInstagram) **¿Te sigue?**
 > La capacidad de saber si un usuario te sigue o no te sigue visitando su perfil.
 
-[<img src="https://github.com/AeroInstagram/.github/blob/main/assets/images-flexible.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Deshabilitar análisis**
+[<img src="https://github.com/AeroInstagram/.github/blob/main/Assets/images-flexible.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Deshabilitar análisis**
 > La capacidad de evitar que Insta recopile datos sobre su cuenta.
 
-[<img src="https://github.com/AeroInstagram/.github/blob/main/assets/images-data.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Siempre con sonido**
+[<img src="https://github.com/AeroInstagram/.github/blob/main/Assets/images-data.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Siempre con sonido**
 > Posibilidad de comenzar siempre con historias de audio y publicaciones sin tocar la pantalla.
 
 **¿Listo para experimentar AeroInsta?
@@ -61,7 +63,7 @@ Descárguelo ahora y disfrute de Aero Privilegios.**
 
 [![Download](https://img.shields.io/badge/Descargar-Ahora%20-green?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://aeroinsta.com/download-insta-aero/?lang=es)
 
-[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/assets/images-faq.png)](https://github.com/AeroInstagram)
+[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/Assets/images-faq.png)](https://github.com/AeroInstagram)
 
 </div>
 
@@ -71,7 +73,7 @@ Descárguelo ahora y disfrute de Aero Privilegios.**
 
 <br><br><br>
 
-[<img src="https://github.com/AeroInstagram/.github/blob/main/assets/wp_aero_logo_dark.png" width="100px" height="auto">](https://github.com/AeroInstagram)
+[<img src="https://github.com/AeroInstagram/.github/blob/main/Assets/wp_aero_logo_dark.png" width="100px" height="auto">](https://github.com/AeroInstagram)
 
 Respetar su vida privada está en nuestro ADN, no olvide leer nuestras políticas de privacidad y términos de uso actualizados.
 
@@ -104,19 +106,3 @@ Fuat Edip Baksı ST. Turkey
 [AeroSoft Studio LTD.](https://hazarbozkurt.com/)
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

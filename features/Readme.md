@@ -101,4 +101,4 @@ don't hesitate to say hello
 Email
 We will reply as soon as possible
 
-Send us an email
+Send us an [email](mailto:admin@hazarbozkurt.com)

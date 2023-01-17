@@ -28,7 +28,7 @@ You can access thousands of awesome features that you wouldn't be able to do in 
 
 Through to AeroInsta, you won't see any boring Insta ads. Just refresh your feed once and say goodbye to boring ads.
 
-<a href=""> `View our features` </a>
+<a href="https://github.com/AeroInstagram/.github/tree/main/features"> `View our features` </a>
 
 [![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/assets/images-video.png)](https://github.com/AeroInstagram)
 
@@ -95,18 +95,41 @@ We're here to help
 
 **Then join the official Aero groups and request help! [Join]()**
 
-<br><br><br><br>
+<br><br><br>
 
 [<img src="https://github.com/AeroInstagram/.github/blob/main/assets/wp_aero_logo_dark.png" width="100px" height="auto">](https://github.com/AeroInstagram)
 
+Respecting your private life is in our DNA, please do not forget to read our updated privacy policies and terms of use.
 
+<br>
 
+**CONTACT INFO**
 
+admin@hazarbozkurt.com
 
+48300
+Babataşı ST. Turkey
 
+35540
+Fuat Edip Baksı ST. Turkey
 
+**FEATURES**
 
+<a href="">View our features </a>
 
+<a href=""> Developer mode features </a>
+
+**LEGAL**
+
+<a href="">Privacy Policy Terms and Conditions </a>
+
+<hr><div align="center">
+
+Copyright © All Rights Reserved by 
+
+[AeroSoft Studio LTD.](https://hazarbozkurt.com/)
+
+</div>
 
 
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/Assets/images-testimonial2.png)](https://github.com/AeroInstagram)
+[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/Assets/aero_cover.png)](https://github.com/AeroInstagram)
 
 **Connect Your Community With [AeroInsta]()**
 

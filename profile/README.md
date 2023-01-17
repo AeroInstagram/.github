@@ -86,11 +86,10 @@ We're here to help
 [![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/assets/images-faq.png)](https://github.com/AeroInstagram)
 
 **Questions not listed above?**
-**Then join the official Aero groups and request help!**
 
-<a href=""> `📞 Join` </a>
+**Then join the official Aero groups and request help! [Join]()**
 
-[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/assets/aerologo2.png)](https://github.com/AeroInstagram)
+[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/assets/aerologo2.png) ](https://github.com/AeroInstagram)
 
 
 

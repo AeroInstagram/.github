@@ -120,7 +120,7 @@ Fuat Edip Baksı ST. Turkey
 
 **LEGAL**
 
-<a href="https://github.com/AeroInstagram/.github/tree/main/Privacy%20Policy">Privacy Policy Terms and Conditions </a>
+<a href="https://github.com/AeroInstagram/.github/blob/main/English/Privacy%20Policy">Privacy Policy Terms and Conditions </a>
 
 <hr><div align="center">
 

@@ -1,5 +1,7 @@
 <div align="center">
 
+[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/assets/images-testimonial2.png)](https://github.com/AeroInstagram)
+
 **Connect Your Community With [AeroInsta]()**
 
 <sub>AeroInsta, protecting your privacy, enhancing your application experience; is a meticulously crafted masterpiece to make it easy, fun and useful.</sub>

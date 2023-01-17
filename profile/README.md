@@ -1,6 +1,6 @@
 <div align="center">
 
-**Welcome To AeroInsta**
+Welcome To AeroInsta
 
 [<img src="https://github.com/AeroInstagram/.github/blob/main/Assets/wp_aero_logo_dark.png" width="200px" height="auto">](https://github.com/AeroInstagram)
 

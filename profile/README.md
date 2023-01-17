@@ -11,6 +11,12 @@
 - Escolha um Idioma | [Portugués]()
 - Bir Dil Seçin | [Türkçe]()
 
+<div align="center">
+
 **Connect your community with AeroInsta**
 
-*AeroInsta, protecting your privacy, improving your application experience; is a meticulously crafted masterpiece to make it easy, fun and useful.*
+<sub>AeroInsta, protecting your privacy, improving your application experience; is a meticulously crafted masterpiece to make it easy, fun and useful.
+
+[<img src="https://img.icons8.com/ios-glyphs/500/null/twitter--v1.png" width="40px" height="auto"/>](https://twitter.com/aeromods_app) &#8287;&#8287; [<img src="https://img.icons8.com/material-outlined/500/null/instagram-new--v1.png" width="40px" height="auto"/>](https://www.instagram.com/bozkurt.hazarr) &#8287;&#8287; [<img src="https://img.icons8.com/ios-glyphs/500/null/facebook-new.png" width="40px" height="auto"/>](https://www.facebook.com/decoder.designer)
+
+</div>

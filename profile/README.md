@@ -20,8 +20,6 @@ Hold the home button and access developer options for unlimited feature after do
 
 You can access thousands of awesome features that you wouldn't be able to do in the original Insta using the developer options.
 
-<a href=""> `Learn more` </a>
-
 <br><br><br>
 
 **2. Tired of ads?**

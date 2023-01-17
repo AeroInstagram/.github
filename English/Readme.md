@@ -27,7 +27,7 @@ You can access thousands of awesome features that you wouldn't be able to do in 
 
 Through to AeroInsta, you won't see any boring Insta ads. Just refresh your feed once and say goodbye to boring ads.
 
-<a href="https://github.com/AeroInstagram/.github/tree/main/features"> `View our features` </a>
+<a href="https://github.com/AeroInstagram/.github/tree/main/English/Features"> `View our features` </a>
 
 [![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/assets/images-video.png)](https://github.com/AeroInstagram)
 
@@ -116,7 +116,7 @@ Fuat Edip Baksı ST. Turkey
 
 **FEATURES**
 
-<a href="https://github.com/AeroInstagram/.github/tree/main/features">View our features </a>
+<a href="https://github.com/AeroInstagram/.github/tree/main/English/Features">View our features </a>
 
 **LEGAL**
 

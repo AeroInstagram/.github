@@ -5,12 +5,30 @@
 [<img src="https://github.com/AeroInstagram/.github/blob/main/Assets/wp_aero_logo_dark.png" width="200px" height="auto">](https://github.com/AeroInstagram)
 
 </div>
+<details>
+<b><summary>Choose a Language</b></summary>
 
-- Choose a Language | [English](https://github.com/AeroInstagram/English)
-- Elige un Idioma | [Español](https://github.com/AeroInstagram/Spanish)
-- Escolha um Idioma | [Portugués](https://github.com/AeroInstagram/Portuguese)
-- Bir Dil Seçin | [Türkçe](https://github.com/AeroInstagram/Turkish)
+[English](https://github.com/AeroInstagram/English) • [Español](https://github.com/AeroInstagram/Spanish) • [Portugués](https://github.com/AeroInstagram/Portuguese) • [Türkçe](https://github.com/AeroInstagram/Turkish)
 
+</details>
+<details>
+<b><summary>Elige un Idioma</b></summary>
+
+[English](https://github.com/AeroInstagram/English) • [Español](https://github.com/AeroInstagram/Spanish) • [Portugués](https://github.com/AeroInstagram/Portuguese) • [Türkçe](https://github.com/AeroInstagram/Turkish)
+
+</details>
+<details>
+<b><summary>Escolha um Idioma</b></summary>
+
+[English](https://github.com/AeroInstagram/English) • [Español](https://github.com/AeroInstagram/Spanish) • [Portugués](https://github.com/AeroInstagram/Portuguese) • [Türkçe](https://github.com/AeroInstagram/Turkish)
+
+</details>
+<details>
+<b><summary>Bir Dil Seçin</b></summary>
+
+[English](https://github.com/AeroInstagram/English) • [Español](https://github.com/AeroInstagram/Spanish) • [Portugués](https://github.com/AeroInstagram/Portuguese) • [Türkçe](https://github.com/AeroInstagram/Turkish)
+
+</details>
 <div align="center">
 
 **Connect your community with AeroInsta**

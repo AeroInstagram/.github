@@ -6,10 +6,10 @@
 
 </div>
 
-- Choose a Language | [English](https://github.com/AeroInstagram/.github/tree/main/English)
-- Elige un Idioma | [Español]()
-- Escolha um Idioma | [Portugués]()
-- Bir Dil Seçin | [Türkçe]()
+- Choose a Language | [English](https://github.com/AeroInstagram/English)
+- Elige un Idioma | [Español](https://github.com/AeroInstagram/Spanish)
+- Escolha um Idioma | [Portugués](https://github.com/AeroInstagram/Portuguese)
+- Bir Dil Seçin | [Türkçe](https://github.com/AeroInstagram/Turkish)
 
 <div align="center">
 

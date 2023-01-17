@@ -115,9 +115,7 @@ Fuat Edip Baksı ST. Turkey
 
 **FEATURES**
 
-<a href="">View our features </a>
-
-<a href=""> Developer mode features </a>
+<a href="https://github.com/AeroInstagram/.github/tree/main/features">View our features </a>
 
 **LEGAL**
 

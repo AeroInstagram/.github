@@ -6,7 +6,11 @@
 
 [![Download](https://img.shields.io/badge/Download-AeroInsta%20-green?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://aeroinsta.com/download-insta-aero)
 
+<br>
+
 [![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/assets/images-hero_img.png)](https://github.com/AeroInstagram)
+
+<br>
 
 [![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/assets/images-testimonial2.png)](https://github.com/AeroInstagram)
 
@@ -18,7 +22,7 @@ You can access thousands of awesome features that you wouldn't be able to do in 
 
 <a href=""> `Learn more` </a>
 
-<br>
+<br><br><br>
 
 **2. Tired of ads?**
 
@@ -28,9 +32,9 @@ Through to AeroInsta, you won't see any boring Insta ads. Just refresh your feed
 
 [![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/assets/images-video.png)](https://github.com/AeroInstagram)
 
-So much to offer
+<br><br>
 
-**Our awesome features**
+**So much to offer Our awesome features**
 
 </div>
 
@@ -58,6 +62,8 @@ Download now and enjoy the Aero Privileges.**
 <div align="center">
 
 [![Download](https://img.shields.io/badge/Download-Now%20-green?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://aeroinsta.com/download-insta-aero)
+
+<br><br><br>
 
 We're here to help
 
@@ -89,9 +95,9 @@ We're here to help
 
 **Then join the official Aero groups and request help! [Join]()**
 
-[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/assets/aerologo2.png) ](https://github.com/AeroInstagram)
+<br><br><br><br>
 
-
+[<img src="https://github.com/AeroInstagram/.github/blob/main/assets/wp_aero_logo_dark.png" width="100px" height="auto">](https://github.com/AeroInstagram)
 
 
 

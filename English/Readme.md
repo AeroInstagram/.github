@@ -1,5 +1,6 @@
-
 <div align="center">
+
+[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/Assets/aero_cover.png)](https://github.com/AeroInstagram)
 
 **Connect Your Community With [AeroInsta]()**
 
@@ -9,11 +10,11 @@
 
 <br>
 
-[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/assets/images-hero_img.png)](https://github.com/AeroInstagram)
+[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/Assets/images-hero_img.png)](https://github.com/AeroInstagram)
 
 <br>
 
-[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/assets/images-testimonial2.png)](https://github.com/AeroInstagram)
+[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/Assets/images-testimonial2.png)](https://github.com/AeroInstagram)
 
 **1. Remove limits with developer options.**
 
@@ -27,9 +28,9 @@ You can access thousands of awesome features that you wouldn't be able to do in 
 
 Through to AeroInsta, you won't see any boring Insta ads. Just refresh your feed once and say goodbye to boring ads.
 
-<a href="https://github.com/AeroInstagram/.github/tree/main/English/Features"> `View our features` </a>
+<a href="https://github.com/AeroInstagram/.github/tree/main/features"> `View our features` </a>
 
-[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/assets/images-video.png)](https://github.com/AeroInstagram)
+[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/Assets/images-video.png)](https://github.com/AeroInstagram)
 
 <br><br>
 
@@ -37,22 +38,22 @@ Through to AeroInsta, you won't see any boring Insta ads. Just refresh your feed
 
 </div>
 
-[<img src="https://github.com/AeroInstagram/.github/blob/main/assets/images-consultancy.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Remove liked posts**
+[<img src="https://github.com/AeroInstagram/.github/blob/main/Assets/images-consultancy.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Remove liked posts**
 > Ability to hide the posts you like before.
 
-[<img src="https://github.com/AeroInstagram/.github/blob/main/assets/images-solutions.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Download everything**
+[<img src="https://github.com/AeroInstagram/.github/blob/main/Assets/images-solutions.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Download everything**
 > The ability to download all stories, reels videos, IGTV videos, in short; download all posts with one click.
 
-[<img src="https://github.com/AeroInstagram/.github/blob/main/assets/images-simple.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Privacy**
+[<img src="https://github.com/AeroInstagram/.github/blob/main/Assets/images-simple.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Privacy**
 > The ability to hide view stories, typing... and reading messages.
 
-[<img src="https://github.com/AeroInstagram/.github/blob/main/assets/images-deadline.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Follows you?**
+[<img src="https://github.com/AeroInstagram/.github/blob/main/Assets/images-deadline.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Follows you?**
 > The ability to find out if a user is following you or not follows you by visiting their profile.
 
-[<img src="https://github.com/AeroInstagram/.github/blob/main/assets/images-flexible.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Disable analytics**
+[<img src="https://github.com/AeroInstagram/.github/blob/main/Assets/images-flexible.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Disable analytics**
 > The ability to prevent Insta from collecting data about your account.
 
-[<img src="https://github.com/AeroInstagram/.github/blob/main/assets/images-data.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Play with sound**
+[<img src="https://github.com/AeroInstagram/.github/blob/main/Assets/images-data.png" width="15px" height="auto">](https://github.com/AeroInstagram) **Play with sound**
 > Ability to automatically audio-on start stories and posts without touching the screen.
 
 **Ready to experience AeroInsta?
@@ -88,7 +89,7 @@ We're here to help
 
 </details>
 
-[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/assets/images-faq.png)](https://github.com/AeroInstagram)
+[![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/Assets/images-faq.png)](https://github.com/AeroInstagram)
 
 **Questions not listed above?**
 
@@ -96,7 +97,7 @@ We're here to help
 
 <br><br><br>
 
-[<img src="https://github.com/AeroInstagram/.github/blob/main/assets/wp_aero_logo_dark.png" width="100px" height="auto">](https://github.com/AeroInstagram)
+[<img src="https://github.com/AeroInstagram/.github/blob/main/Assets/wp_aero_logo_dark.png" width="100px" height="auto">](https://github.com/AeroInstagram)
 
 Respecting your private life is in our DNA, please do not forget to read our updated privacy policies and terms of use.
 
@@ -116,11 +117,11 @@ Fuat Edip Baksı ST. Turkey
 
 **FEATURES**
 
-<a href="https://github.com/AeroInstagram/.github/tree/main/English/Features">View our features </a>
+<a href="https://github.com/AeroInstagram/.github/tree/main/features">View our features </a>
 
 **LEGAL**
 
-<a href="https://github.com/AeroInstagram/.github/tree/main/English/Privacy_Policy">Privacy Policy Terms and Conditions </a>
+<a href="https://github.com/AeroInstagram/.github/tree/main/Privacy%20Policy">Privacy Policy Terms and Conditions </a>
 
 <hr><div align="center">
 
